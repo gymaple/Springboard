@@ -1,4 +1,0 @@
-Git status
-git add
-Git commit
-Git push origin master
